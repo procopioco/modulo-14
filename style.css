@@ -1,0 +1,45 @@
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f0f8ff;
+        }
+
+        .navbar {
+            background-color: #1e3d59;
+        }
+
+        .navbar-brand,
+        .nav-link {
+            color: #ffffff !important;
+        }
+
+        .nav-link.active {
+            background-color: #ffc107 !important;
+            color: #1e3d59 !important;
+        }
+
+        header h1 {
+            font-family: 'Pacifico', cursive;
+        }
+
+        .text-primary-custom {
+            color: #1e3d59;
+        }
+
+        .bg-light-blue {
+            background-color: #d6f5f7;
+        }
+
+        .btn-custom {
+            background-color: #1e3d59;
+            color: #fff;
+        }
+
+        .btn-custom:hover {
+            background-color: #163042;
+        }
+
+        .nav-link.active {
+    background-color: #ffc107 !important;
+    color: #1e3d59 !important;
+    border-radius: 0.5rem;
+}
